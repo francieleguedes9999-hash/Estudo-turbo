@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.franguedes25.estudoturboia",
+    "sha256_cert_fingerprints": ["EF:2F:EC:74:50:AE:26:2C:74:32:EC:73:CB:1E:00:C8:D0:A2:FE:7A:F9:51:EB:E9:39:EC:16:D4:30:CF:C9:BA"]
+  }
+}]
